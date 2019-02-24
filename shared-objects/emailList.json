@@ -1,0 +1,15 @@
+{
+  "Details" : {
+    "Name": "KlassiTech Automated Testing Tool",
+    "Created by": "Larry Goddard"
+  },
+
+  "auth":{
+    "host": "{smtp.sitename.co.uk}",
+    "user": "{user@sitename.co.uk}",
+    "pass": "{password}"
+  },
+
+  "nameList": "Me <{your email address}>"
+}
+
